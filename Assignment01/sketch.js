@@ -68,17 +68,6 @@ function draw() {
     vertex(400,1600);//corner4
     vertex(510,1515);// mid right
     vertex(370,1520);//corner2
-    
-   
-    
   endShape(CLOSE);
   
-
-  
-
-
-
-
-
-
 }
